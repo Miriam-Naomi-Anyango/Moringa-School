@@ -59,3 +59,18 @@ li{
 .Moringa-1{
     display: flex;*/
 }
+.logo{
+    font-size: 1rem;
+    font-weight: bold;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Moringa{
+   color: #EC4067; 
+}
+.school{
+    color: rgb(10, 8, 8);
+}
