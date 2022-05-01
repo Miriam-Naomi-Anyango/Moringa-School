@@ -1,4 +1,4 @@
-.Moringa{
+/*.Moringa{
     color: #EC4067;
 }
 .School{
@@ -45,13 +45,17 @@ li{
     max-width: 1100px;
     margin: 2 rem auto --6rem;*/
 }
-div.Moringa 1{
+/*div.Moringa-1{
     color: black;
     font-weight: normal;
     font-size: small;
+    display: flex;
 }
 .Nurturing{
     color: #EC4067;
     font-weight: 200;
     font-size: x-large;
+}
+.Moringa-1{
+    display: flex;*/
 }
