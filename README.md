@@ -8,3 +8,8 @@
 ##### To style the logo, we'll use Flex to place the logo and the Menu Items side by side. First, I make the first <span> #EC4067, and the second <span> blackish. #####
 ##### To place the logo and menu items side by side, I will be using Flex. #####
 ##### I'm also going to make the navbar sticky, so it always stays at the top whenever the user scrolls down in order to create good user experience. #####
+##### Make sure the menu items are side by side and not on top of one another by employing flex display. #####
+## Styling the Moringa Section. ##
+### To align the Moringa text and the Image 1 side by side, Use Flex display. ###
+##### To style the header texts of the Moringa section, I put them in their respective span tags so I can style them differently. #####
+

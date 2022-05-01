@@ -45,3 +45,16 @@ section{
     max-width: 1100px;
     margin: 2 rem auto --6rem;
 }
+div.Moringa 1{
+    color: black;
+    font-weight: normal;
+    font-size: small;
+}
+.Nurturing{
+    color: #EC4067;
+    font-weight: 200;
+    font-size: x-large;
+}
+section{
+    margin: 10%;
+}
