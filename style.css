@@ -1,10 +1,4 @@
-/*.Moringa{
-    color: #EC4067;
-}
-.School{
-    color: rgb(10, 8, 8);
-}
-nav {
+/*nav {
     display: flex;
     align-items: center;
     padding: 1rem 1.05;
@@ -14,16 +8,6 @@ nav {
     top: 0;
     left: 0;
     z-index: 1;
-}
-.logo{
-    font-size: 1rem;
-    font-weight: bold;
-}
-ul{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
 }
 .nav-item{
     margin-left: 2rem;
@@ -55,22 +39,43 @@ li{
     color: #EC4067;
     font-weight: 200;
     font-size: x-large;
-}
-.Moringa-1{
-    display: flex;*/
+}*/
 }
 .logo{
     font-size: 1rem;
-    font-weight: bold;
+    font-weight: small;
 }
 ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.Moringa{
+.Moringa-Moringa{
    color: #EC4067; 
 }
 .school{
     color: rgb(10, 8, 8);
+}
+nav{
+    display: flex;
+    align-items: center;
+    padding: 1rem 1.05;
+    justify-content: space-between;
+    position: sticky;
+    top: 1;
+    left: 1;
+    z-index: 1;
+    background-color: #fff;
+    color: black;
+}
+li{
+   list-style: none; 
+}
+nav-link{
+    margin-left: 2rem
+}
+.Moringa{
+    display: flex;
+    justify-content: space-between;
+    gap: 50.9rem;
 }
