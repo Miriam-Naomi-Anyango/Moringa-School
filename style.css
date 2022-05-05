@@ -57,3 +57,8 @@ div.navbar{
     justify-content: space-between;
     height: 90px;
 }
+.list{
+    display: inline;
+    margin-left: 20px;
+    margin-top: 10px;
+}
