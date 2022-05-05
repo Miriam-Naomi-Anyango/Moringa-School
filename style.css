@@ -3,17 +3,18 @@ span.Moringa{
 }
 section.Moringa1 {
     display: flex;
-    justify-content: space-between;
     padding-left: 2px;
     margin-bottom: 100px;
+    justify-content: space-around;
 }
 div.intro-text {
     font-size: x-large;
-    margin-top: 100px;
-    margin-left: 100px;
+    margin-top: 80px;
+    margin-left: 20px;
 }
 .Stories{
     margin-bottom: 50px;
+    margin-left: 100px;
 }
 div.stories1{
     display: flex;
@@ -30,13 +31,14 @@ section.Moringa4{
 }
 div.Board{
     margin-top: 100px;
-    font-size: x-large;
+    font-size: large;
     margin-right: 100px;
-    margin-left: 10px;
+    margin-left: 100px;
 }
 section.Moringa5{
     display: flex;
     margin-top: 100px;
+    margin-left: 100px;
 }
 section.Moringa8{
     display: flex;
@@ -45,7 +47,7 @@ section.Moringa8{
 div.graduation{
     margin-top: 100px;
     margin-left: 100px;
-    font-size: x-large;
+    font-size: large;
 }
 section.Moringa10{
     display: flex;
@@ -66,9 +68,15 @@ div.Technical-Mentors{
     display: grid;
     grid-template-columns: repeat(4,1fr);
     margin-top: 100px;
+    margin: 100px;
 }
 div.footer{
     text-align: center;
+    height: 90px;
+    background-color: grey;
+    padding-top: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 body{
     font-family: 'Nunito', sans-serif;
@@ -85,4 +93,43 @@ button.btn{
     border-color: #EC4067;
     background-color: #fff;
     padding: 5px;
+}
+.morib{
+    color: #EC4067;
+}
+.our{
+    display: flex;
+    margin-top: 50px;
+}
+.This{
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+.image{
+    margin-left: 100px;
+}
+.Project{
+    margin-left: 100px;
+}
+.Title1{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.still{
+    color: #EC4067; 
+  
+}
+section.Moringa9{
+    margin-left: 100px;
+}
+.navbar{
+    margin-left: 50px;
+}
+.imagioso{
+    margin left: 100px;
+    margin
+}
+.heart{
+    color: red;
 }
