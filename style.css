@@ -41,3 +41,8 @@ section.Moringa5{
 section.Moringa8{
     display: flex;
 }
+div.graduation{
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: x-large;
+}
