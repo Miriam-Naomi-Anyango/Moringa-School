@@ -28,3 +28,9 @@ section.Moringa4{
     display: flex;
     margin-top: 100px;
 }
+div.Board{
+    margin-top: 100px;
+    font-size: x-large;
+    margin-right: 100px;
+    margin-left: 10px;
+}
