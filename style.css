@@ -1,3 +1,9 @@
 span.Moringa{
     color: #EC4067;
 }
+section.Moringa1 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2px;
+    margin-bottom: 100px;
+}
