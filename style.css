@@ -7,3 +7,8 @@ section.Moringa1 {
     padding-left: 2px;
     margin-bottom: 100px;
 }
+div.intro-text {
+    font-size: x-large;
+    margin-top: 100px;
+    margin-left: 100px;
+}
