@@ -73,3 +73,16 @@ div.footer{
 body{
     font-family: 'Nunito', sans-serif;
 }
+button.btn{
+    background-color: #EC4067;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    border-color: #EC4067;
+ }
+ button.btn3{
+    color: #EC4067;
+    border-color: #EC4067;
+    background-color: #fff;
+    padding: 5px;
+}
