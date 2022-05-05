@@ -15,3 +15,12 @@ div.intro-text {
 .Stories{
     margin-bottom: 50px;
 }
+div.stories1{
+    display: flex;
+    margin-left: 100px;
+}
+div.orientation {
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: large;
+}
