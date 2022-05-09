@@ -1,25 +1,78 @@
-# Moringa School Landing Page. # 
+
+# Moringa School Landing Page
+
+# Design
+![image](./assets/images/School%20Landing%20Page.png)
 
 
-### By Miriam Naomi Anyango. ###
+#### by Miriam Naomi Anyango.
 
-## Screenshot
- ![image](./assets/images/School%20Landing%20Page.png)
+### Description of the project.
+
+## Table of Content 
+
++ [Description](#Description)
  
- ## Table of Content ##
- - Description
-- Features
-- Technology Used
-- Licence
-- Authors
- 
-## Description ##
++ [Installation Requirement](#Installation)
 
-```
-It is very crucial to have a good landing page for your websites. The landing page can either drive customers to your site or turn them off.
++ [Technology Used](#technology-used)
 
-This project is a Web application for Moringa School Landing page designed with plain HTML and CSS that gives information about the purpose of Moringa school, stories, Technical Mentors and their area of speciallization and some other services they offer apart from equiping learners with knowledge.
-```
-## Features ##
-```
-As a user of this landing page, you will be able to see the 
++ [Reference](#reference)
+
++ [License](#license)
+
++ [Authors Info](authors-info)
+
++ [Live Link](live-link)
+
+## Description
+
+<p>It is very crucial to have a good landing page for your websites.The landing page can either drive customers to your site or turn them off.
+
+This project is a web application for Moringa school Landing page designed with plain HTML and styled with CSS that gives information about the purpose of Moringa school, stories, Technical Mentors and their area of specialization and some other services they offer apart from equping lerners with knowledge. 
+</p>
+
+## Installation Requirement
+
+* Either a computer, phone, tablet or an ipad.
+* Access to the internet.
+
+## Technology Used 
+
+* HTML - Used to build the structure of the page.
+
+* CSS - Used to style the page.
+
+## Reference
+
+* Canvas-LMS
+* W3 schools
+
+## License
+
+MIT license
+Copyright (c) [2022] [Miriam Anyango]
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Authors Info
+
+https://github.com/Miriam-Naomi-Anyango?tab=repositories
+
+## Live Link
+https://miriam-naomi-anyango.github.io/Quick-Movers-Website/
