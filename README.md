@@ -75,4 +75,4 @@ SOFTWARE.
 https://github.com/Miriam-Naomi-Anyango?tab=repositories
 
 ## Live Link
-https://miriam-naomi-anyango.github.io/Quick-Movers-Website/
+https://miriam-naomi-anyango.github.io/moringa-school/
