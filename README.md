@@ -1,19 +1,23 @@
 
 # Moringa School Landing Page
 
-# Design
+### By Miriam Naomi Anyango.
+
+# Screenshot
+### Home page
 ![image](./assets/images/School%20Landing%20Page.png)
-
-
-#### by Miriam Naomi Anyango.
-
-### Description of the project.
 
 ## Table of Content 
 
 + [Description](#Description)
  
-+ [Installation Requirement](#Installation)
+ + [Features](#Features)
+
+ + [Requirement](#Requirement)
+
++ [Installation-process](#Installation-Process) 
+
++ [Live Link](#live-link)
 
 + [Technology Used](#technology-used)
 
@@ -21,32 +25,43 @@
 
 + [License](#license)
 
-+ [Authors Info](authors-info)
++ [Authors Info](#authors-info)
 
-+ [Live Link](live-link)
 
 ## Description
-
 <p>It is very crucial to have a good landing page for your websites.The landing page can either drive customers to your site or turn them off.
 
 This project is a web application for Moringa school Landing page designed with plain HTML and styled with CSS that gives information about the purpose of Moringa school, stories, Technical Mentors and their area of specialization and some other services they offer apart from equping lerners with knowledge. 
 </p>
 
-## Installation Requirement
+## Features
+As a user of this web application, you will be ablke to:
+1. See the information about the purpose of Moringa school, stories, Technical Mentors and their area of specialization and some other services they offer apart from equping lerners with knowledge.
 
-* Either a computer, phone, tablet or an ipad.
-* Access to the internet.
+## Installation Requirement
+In order to install and use the application one will require the following
+
+* Access to eithera computer, a smartphone a tablet or any other gadget.
+* Access to Internet/ Internet connection.
+
+## Live Link
+Click this link to view the live application.
+
+LiveLink -[Gh-pages](
+https://miriam-naomi-anyango.github.io/moringa-school/)
+
 
 ## Technology Used 
 
-* HTML - Used to build the structure of the page.
+* HTML - Used to develope the structure of the pages.
 
-* CSS - Used to style the page.
+* CSS - Used to style the user Interface.
 
 ## Reference
 
 * Canvas-LMS
 * W3 schools
+* Youtube videos
 
 ## License
 
@@ -66,13 +81,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, OR OTHERWISE, ARISING FROM,
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
 ## Authors Info
 
-https://github.com/Miriam-Naomi-Anyango?tab=repositories
-
-## Live Link
-https://miriam-naomi-anyango.github.io/moringa-school/
+GitHub - [Miriam Anyango](https://github.com/Miriam-Naomi-Anyango)
